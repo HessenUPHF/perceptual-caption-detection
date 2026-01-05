@@ -1,0 +1,13 @@
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+transformers
+accelerate
+peft
+bitsandbytes
+pandas
+numpy
+tqdm
+scikit-learn
+Pillow
